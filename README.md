@@ -1,2 +1,2 @@
-# AutomaticHandWashDispenser
-Dispenses hand wash liquid soap and shows timer for 20 secs
+# IOTProjects
+Collection of different IOT project using Arduino Uno board and different sensor modules.
